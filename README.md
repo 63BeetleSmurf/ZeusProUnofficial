@@ -1,15 +1,21 @@
 # Zeus Pro Unofficial
 
-## Version 4.0.6
+![Zeus Pro Unofficial Logo](images/logo.png)
 
-### Fixed
-- Crash when trying to open or save a file.
-- Affiliation typo on wrestler editor window.
+This project provides unofficial updates to Geeksoft's Zeus Pro e-fed management / wrestling simulator.
 
-### Changed
-- Help file updated from win help to compiled HTML.
-- Minor version updated from 4.0.5 to 4.0.6.
+## Notable Changes
+- Fixed crash when trying to open or save files on modern Windows (post XP).
+- Removed install directory restrictions allowing portability.
+- Updated help file so compatible with modern Windows.
+- Update UI to use modern styling.
+- Added modern icon set.
+- Various usability changes such as correct tab movement.
+- Added modern WWE RAW and SmackDown federation files.
 
-### Added
-- Original Z-Pro icon which was replaced by 2006 version.
-- New Z-Pro barbed wire icon.
+![UI Comparison Animation](images/ui_compare.md)
+
+Full details of changes can be found in;
+- [Change log](CHANGES.md)
+- [Detailed binary changes](binary_patches.md)
+- [Detailed resource changes](resource_changes.md)
