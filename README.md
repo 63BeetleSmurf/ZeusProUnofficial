@@ -13,7 +13,7 @@ This project provides unofficial updates to Geeksoft's Zeus Pro e-fed management
 - Various usability changes such as correct tab movement.
 - Added modern WWE RAW and SmackDown federation files.
 
-![UI Comparison Animation](images/ui_compare.md)
+![UI Comparison Animation](images/ui_compare.gif)
 
 Full details of changes can be found in;
 - [Change log](CHANGES.md)
